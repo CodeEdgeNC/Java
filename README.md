@@ -1,2 +1,2 @@
-# JavaScript
-JavaScript Code Edge Example Projects
+# Java  
+Java Code Edge Example Projects
