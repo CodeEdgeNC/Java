@@ -2,5 +2,5 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: javac ./01-Hello-World/HelloWorld.java
-    command: java -cp ./01-Hello-World HelloWorld: HelloWorld 
+  - init: javac ./HelloWorld.java
+    command: java HelloWorld
